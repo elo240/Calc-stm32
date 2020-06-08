@@ -1,0 +1,4 @@
+Czytnik.c:7:6:save_to_flash	80	dynamic
+Czytnik.c:51:6:read_flash	24	static
+Czytnik.c:69:6:zapisz	272	static
+Czytnik.c:83:6:czytaj	16	static
